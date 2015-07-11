@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\SharpDevelop Projects\U_Disk_Find\U_Disk_Find\bin\Debug\U_Disk_Find.exe.config
+C:\Users\Administrator\Documents\SharpDevelop Projects\U_Disk_Find\U_Disk_Find\bin\Debug\U_Disk_Find.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\U_Disk_Find\U_Disk_Find\bin\Debug\U_Disk_Find.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\U_Disk_Find\U_Disk_Find\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\U_Disk_Find\U_Disk_Find\obj\Debug\U_Disk_Find.MainForm.resources
+C:\Users\Administrator\Documents\SharpDevelop Projects\U_Disk_Find\U_Disk_Find\obj\Debug\U_Disk_Find.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\U_Disk_Find\U_Disk_Find\obj\Debug\U_Disk_Find.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\U_Disk_Find\U_Disk_Find\obj\Debug\U_Disk_Find.pdb
